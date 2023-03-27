@@ -1,6 +1,6 @@
 # Computer Graphics (OpenGL)
 
-## Credit
+## Credits
 - This material was used in Ajou University Computer Graphics class. Therefore, the authority of the data belongs to Professor Hyun-Jun Shin and Seong-Min Hwang.
 
 ## Description
