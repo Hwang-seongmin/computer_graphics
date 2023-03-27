@@ -1,7 +1,10 @@
 # Computer Graphics (OpenGL)
 
-## Description
+## Credit
 - This material was used in Ajou University Computer Graphics class. Therefore, the authority of the data belongs to Professor Hyun-Jun Shin and Seong-Min Hwang.
+
+## Description
+- Implemented 3D Viewing, Phong Shading, Texture Mapping, Bump Mapping, and Shadow Mapping.
 
 ## Apple
 ![사과](https://user-images.githubusercontent.com/90667568/228027775-ed3c12d6-8fb4-4cdc-aab3-72c77d5b0596.JPG)
