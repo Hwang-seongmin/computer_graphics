@@ -1,9 +1,10 @@
 # Computer_graphics
 
-## Result
-Apple
-![사과](https://user-images.githubusercontent.com/90667568/228025733-5869ee97-9c4f-4f14-8f9c-44d3aeab6bfc.JPG)
-Dwarf
-![드워프](https://user-images.githubusercontent.com/90667568/228025749-d4def18a-c79e-4b97-b80c-e2922bcd3c85.JPG)
-Trex
-![트렉스](https://user-images.githubusercontent.com/90667568/228025759-66297b5d-fe5c-43c5-a877-0bc955b941c2.JPG)
+## Apple
+![사과](https://user-images.githubusercontent.com/90667568/228027775-ed3c12d6-8fb4-4cdc-aab3-72c77d5b0596.JPG)
+
+## Dwarf
+![드워프](https://user-images.githubusercontent.com/90667568/228027792-e80f48dd-c995-4c80-b8a4-ca1f133102e5.JPG)
+
+## Trex
+![트렉스](https://user-images.githubusercontent.com/90667568/228027802-137f6650-074f-4991-8853-57a05ba281b4.JPG)
