@@ -1,7 +1,7 @@
 # Computer Graphics (OpenGL)
 
 ## Credits
-- This material was used in Ajou University Computer Graphics class. Therefore, the authority of the data belongs to Professor Hyun-Jun Shin and Seong-Min Hwang.
+- This material was used in OO University Computer Graphics class. Therefore, the authority of the data belongs to Professor Hyun-Jun Shin and Seong-Min Hwang.
 
 ## Description
 - Implemented 3D Viewing, Phong Shading, Texture Mapping, Bump Mapping, and Shadow Mapping.
